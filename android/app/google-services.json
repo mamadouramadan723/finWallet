@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "51613872465",
+    "project_id": "finance-wallet-9207",
+    "storage_bucket": "finance-wallet-9207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51613872465:android:de96457d42573afd6f6370",
+        "android_client_info": {
+          "package_name": "com.rmd.business.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51613872465-q7mdej2bm461mlhpghsrluamkuegnt10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rmd.business.finwallet",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "51613872465-4h8arts49hvoa8vgf9520qir66ccsduf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJIG8jm4ej0Hu6I-kcd9E-SdwmzSfPls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51613872465-4h8arts49hvoa8vgf9520qir66ccsduf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51613872465-j87rtags0ia9aapfadvp30gmdt359jnq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.business.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
